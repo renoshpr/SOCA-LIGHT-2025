@@ -11,7 +11,7 @@
 * **`FUNCTIONS/`**: Core scripts, processing utility functions, and execution code.
 * **`INPUTS/`**: Sample input datasets needed to run the processing scripts.
 * **`MODELS/`**: Pre-trained machine learning models used for field generation.
-* **`OUTPUTS/`**: Output directory where generated NetCDF files are stored.
+* **`OUTPUTS/`**: Output directory where generated output files.
 
 ---
 
