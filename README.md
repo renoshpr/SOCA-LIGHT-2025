@@ -18,7 +18,7 @@
 ## Key Notebooks & Pipelines
 
 ### `Notebook_to_Extract_SOCA-LIGHT-MODELS-2025_from_BGC_ARGO.ipynb`
-Generates profiles of Light Parameters (PAR, $E_d(380)$, $E_d(412)$, and $E_d(490)$).
+Generates profiles of Light Parameters (PAR, $E_d(380)$, $E_d(412)$, and $E_d(490)$ ).
 
 For **SOCA Light 2025**, each light variable (PAR, ED380, ED412, and ED490) provides **two output variables**: **one at the local time of the float** and **other at local noon**. 
 
